@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, World 🗺
 
-<!--
-**Bea-Pelka/Bea-Pelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Professional and Creative Person - Developer | Designer**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+> [!IMPORTANT]
+> :small_orange_diamond: I am a beginner who is I'm currently learning how to code. By the beginning of the year I started to dive into HTML, CSS and now I'm currently learning Javascript. 
+I have been working as an autonomous Designer for about 5 years, and through my studies and experience with inumerous applications I found myself wishing to be less dependable of tools that were limitating my creativity and capabilities - **that's when I started to actually _venture_ myself writing some code snippets here and there**, since then I discovered a _new opportunity_ for me. My main goal is to become a Dev, we'll see where this takes me.
